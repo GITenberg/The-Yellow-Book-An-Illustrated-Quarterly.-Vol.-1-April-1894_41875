@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1810
     wikipedia: http://en.wikipedia.org/wiki/Henry_Harland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41875#The-Yellow-Book-An-Illustrated-Quarterly.-Vol.-1-April-1894
 gutenberg_bookshelf: The Yellow Book
 gutenberg_issued: '2013-01-19'
 gutenberg_type: Text
