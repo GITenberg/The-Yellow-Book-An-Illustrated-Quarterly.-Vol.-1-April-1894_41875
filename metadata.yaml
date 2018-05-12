@@ -1,0 +1,31 @@
+_repo: The-Yellow-Book-An-Illustrated-Quarterly.-Vol.-1-April-1894_41875
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41875-h/images/i_innercover.jpg
+creator:
+  editor:
+    agent_name: Harland, Henry
+    alias: Luska, Sidney
+    birthdate: 1861
+    deathdate: 1905
+    gutenberg_agent_id: '1810'
+    url: http://www.gutenberg.org/2009/agents/1810
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Harland
+description: ''
+gutenberg_bookshelf: The Yellow Book
+gutenberg_issued: '2013-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'English literature -- 19th century -- Periodicals'
+- !lcsh 'Literature, Modern -- 19th century -- Periodicals'
+- !lcsh 'Great Britain -- Periodicals'
+title: The Yellow Book, An Illustrated Quarterly. Vol. 1, April 1894
+url: http://www.gutenberg.org/ebooks/41875
